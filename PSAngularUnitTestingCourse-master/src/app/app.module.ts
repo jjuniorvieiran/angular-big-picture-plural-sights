@@ -1,3 +1,5 @@
+//it is a gotcha based on plenty of things you can easy forget
+
 import { NgModule }       from '@angular/core';
 import { BrowserModule }  from '@angular/platform-browser';
 import { FormsModule }    from '@angular/forms';
